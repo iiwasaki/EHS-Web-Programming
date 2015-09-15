@@ -11,3 +11,14 @@ Find a project! Your Project Sponsor Form is due no later than Monday, September
 Latest Update 
 Sept. 13 - Created repository and added September 14th file. 
 
+May I pose a suggested reading \
+
+books from tuebl.ca
+
+The Design of Everyday Things by Don Norman
+The Design of Future Things by Don Norman
+Mastery by Robert Greene
+author 
+ Daniel coyle
+But how do it Know?
+How to be an expert in anything within ... look rest up
