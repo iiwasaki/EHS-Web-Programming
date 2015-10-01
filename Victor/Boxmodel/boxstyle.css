@@ -1,0 +1,36 @@
+	/*You will edit this page as necessary */
+
+
+.banner{ 
+	text-align: center; 
+
+}
+
+#navigation ul {
+	list-style-type: none; 
+	text-align: center; 
+
+
+
+}
+
+#navigation li {
+	display: inline; 	
+	border-style: solid;
+
+
+}
+
+#dice { 
+	width: 50%;
+	height: 50%; 
+
+}
+
+h2{
+	text-align: center; 
+}
+
+p{
+	text-align: center;
+}
