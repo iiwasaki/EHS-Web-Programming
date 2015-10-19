@@ -1,0 +1,23 @@
+#center_one p { 
+    margin-left: 70px; 
+    margin-right: 70px; 
+    border: 3px solid; 
+    padding: 7px; 
+    background-color: #abcdef
+}
+
+#center_two p{ 
+    margin: auto; 
+    width: 500px; 
+    padding: 10px; 
+    border: 3px solid;
+    background-color: chartreuse;
+}
+
+#center_three p{
+    margin: auto; 
+    max-width: 500px; 
+    padding: 10px;
+    border: 3px solid; 
+    background-color: aqua
+}
