@@ -1,0 +1,64 @@
+/* LEVEL 3 - Nightmare Mode. Good luck, brave wanderer. 
+
+Notes: 
+
+1. The .topbar class must be visible at the top at all times, even if scrolled. 
+2. The .footer class must be visible on the bottom at all times, even if scrolled.
+3. Everything in the middle should remain center-aligned even if the browser width is adjusted. 
+
+You may need to add additional element identifiers (Hint: You'll need a ul {}) to the CSS page than just the existing elements to get the desired result. 
+*/ 
+
+.topbar {
+    background-color: aqua;
+    z-index: 10; /* This helps keep the header in the foreground*/
+    
+    /*Edit below this line */
+
+
+}
+
+.container{
+    background-color: beige; 
+    border: 2px solid cyan; 
+    padding: 0.5em;   
+    
+    /* Edit below this line */ 
+
+
+}
+
+
+.navbar {
+    background-color: chartreuse; 
+    border: 2px solid tomato; 
+    
+    /* Edit below this line*/ 
+
+}
+
+
+.main {
+    background-color: azure; 
+    border: 2px solid green; 
+
+    
+    /* Edit below this line */
+
+    
+  
+}
+
+.footer {
+    text-align: center;
+    border: 2px solid blue; 
+    background-color: darksalmon;
+    
+    /* Edit after this line */ 
+
+}
+
+body {
+    margin: 0.5em; 
+    /* Edit after this line */
+}

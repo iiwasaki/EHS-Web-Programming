@@ -1,0 +1,51 @@
+/* LEVEL 1 - Normal Difficulty */
+
+.topbar {
+    background-color: aqua;
+    
+    /*Edit below this line */
+
+    
+}
+
+.container{
+    background-color: beige; 
+    border: 2px solid cyan; 
+    padding: 0.5em;   
+    position: relative; 
+    /* Edit below this line */ 
+    
+}
+
+
+.navbar {
+    background-color: chartreuse; 
+    border: 2px solid tomato; 
+    position: absolute;
+    width: 150px; 
+    
+    /* Edit below this line*/ 
+
+    
+}
+
+.main {
+    background-color: azure; 
+    border: 2px solid green; 
+    
+    /* Edit below this line */
+    
+}
+
+.footer {
+    text-align: center;
+    border: 2px solid blue; 
+    background-color: darksalmon;
+    /* Edit after this line */ 
+
+}
+
+/* DO NOT EDIT BELOW THIS LINE */ 
+body {
+    margin: 0.5em; 
+}

@@ -1,0 +1,55 @@
+.topbar {
+    background-color: aqua;
+    
+    /*Edit below this line */
+    margin: auto; 
+    width: 600px; 
+    text-align: center; 
+    
+}
+
+.container{
+    background-color: beige; 
+    border: 2px solid cyan; 
+    padding: 0.5em;   
+    
+    /* Edit below this line */ 
+    position: relative; 
+}
+
+
+.navbar {
+    background-color: chartreuse; 
+    border: 2px solid tomato; 
+    
+    /* Edit below this line*/ 
+    width: 200px; 
+    position: absolute; 
+    top: 0px; 
+    left: 0px; 
+}
+
+.main {
+    background-color: azure; 
+    border: 2px solid green; 
+    
+    /* Edit below this line */
+    margin-left: 250px;     
+}
+
+.footer {
+    text-align: center;
+    border: 2px solid blue; 
+    background-color: darksalmon;
+    
+    /* Edit after this line */ 
+    position: fixed; 
+    bottom: 0px; 
+    left: 0px;
+    width: 100%;
+    height: auto;
+}
+
+body {
+    margin: 0.5em; 
+}

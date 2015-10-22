@@ -1,0 +1,56 @@
+/* LEVEL 2 - Hard Mode. 
+A few notes before you begin: 
+
+The .topbar class should be at the top and STAY at the top even if you scroll through. 
+The .footer class should be at the bottom and STAY on the bottom, even if you scroll through. */
+
+.topbar {
+    background-color: aqua;
+    z-index: 10; /* This z-index makes the header stay in the foreground */
+    
+    /*Edit below this line */
+
+}
+
+.container{
+    background-color: beige; 
+    border: 2px solid cyan; 
+    padding: 0.5em;   
+    height: 1000px;
+    /* Edit below this line */ 
+
+    
+}
+
+
+.navbar {
+    background-color: chartreuse; 
+    border: 2px solid tomato; 
+    position: absolute; 
+    /* Edit below this line*/ 
+
+
+}
+
+.main {
+    background-color: azure; 
+    border: 2px solid green; 
+    
+    /* Edit below this line */
+
+  
+}
+
+.footer {
+    text-align: center;
+    border: 2px solid blue; 
+    background-color: darksalmon;
+    
+    /* Edit after this line */ 
+
+}
+
+body {
+    margin: 0.5em; 
+    /*Edit after this line */
+}
